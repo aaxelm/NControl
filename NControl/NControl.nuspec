@@ -3,7 +3,7 @@
    <metadata minClientVersion="2.8.1">
        <id>NControl</id>
     <version>0.9.1.0</version>
-    <authors>Christian Falch, Henrik Ilgen, Adam (awolf), BlueRaja, Frank Neuman</authors>
+    <authors>Christian Falch, Henrik Ilgen, Adam (awolf), BlueRaja, Frank Neuman, Alex Munteanu</authors>
     <owners>Christian Falch</owners>
     <licenseUrl>https://github.com/chrfalch/NControl/blob/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/chrfalch/NControl/</projectUrl>    
